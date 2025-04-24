@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**BhagyaSreeV29/BhagyaSreeV29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Bhagya Sree] 👋
 
-Here are some ideas to get you started:
+🔬 Data Scientist | 🧠 Deep Learning Enthusiast | ☁️ Cloud Explorer  
+📊 Specializing in Computer Vision, NLP, and Time Series Forecasting  
+⚙️ Tools: Python, PyTorch, TensorFlow, OpenCV, Spark, Docker, Azure, AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- 🚀 [Image Segmentation for Mining](https://github.com/your-repo)
+- 🔍 [Text Classification with BERT](https://github.com/your-repo)
+- 📈 [Time Series Forecasting on Azure](https://github.com/your-repo)
+
+## 📫 Let's connect!
+[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
