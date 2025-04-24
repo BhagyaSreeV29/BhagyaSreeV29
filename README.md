@@ -12,4 +12,4 @@
 - 📈 [Time Series Forecasting on Azure](https://github.com/your-repo)
 
 ## 📫 Let's connect!
-[LinkedIn](www.linkedin.com/in/koti-bhagya-sree-vemavarapu-3660872a7) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](www.linkedin.com/in/BhagyaSree2903) | [Portfolio](https://yourportfolio.com)
